@@ -1,0 +1,19 @@
+{
+    "labels": [
+        {
+            "name": "priority::1",
+            "color": "#FF0000",
+            "description": "Highest priority"
+        },
+        {
+            "name": "priority::2",
+            "color": "#FF8C00",
+            "description": "High priority"
+        },
+        {
+            "name": "priority::3",
+            "color": "#FFD700",
+            "description": "Medium priority"
+        }
+    ]
+}
