@@ -1,13 +1,13 @@
-# GitLab Label Manager
+# Git Manager
 
-Un outil en ligne de commande pour gérer facilement les labels dans vos projets GitLab. Il permet de créer et maintenir un ensemble cohérent de labels à travers différents projets.
+Un outil en ligne de commande pour gérer facilement la creation des différents étapes dans l'organisation de vos projet sur Github & Gitalb. Il permet de créer et maintenir un ensemble cohérent de labels à travers différents projets.
 
 ## Fonctionnalités
 
 - Création de labels à partir d'un fichier de configuration JSON
 - Support des variables d'environnement pour la configuration
 - Gestion des couleurs et descriptions pour chaque label
-- Support des projets GitLab auto-hébergés et gitlab.com
+- Support des projets Github & GitLab
 
 ## Prérequis
 
