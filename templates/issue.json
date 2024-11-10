@@ -1,0 +1,25 @@
+{
+    "sections": [
+        {
+            "title": "## Objectif",
+            "required": true,
+            "placeholder": "Description claire et concise de l'objectif de cette tâche."
+        },
+        {
+            "title": "## Tâches",
+            "required": true,
+            "placeholder": "Liste des tâches à accomplir"
+        },
+        {
+            "title": "## Critères d'Acceptance",
+            "required": true,
+            "placeholder": "Liste des critères qui définissent quand cette tâche est terminée"
+        },
+        {
+            "title": "## Documentation Requise",
+            "required": true,
+            "placeholder": "Liste de la documentation à créer ou mettre à jour"
+        }
+    ],
+    "required_labels": ["priority", "type", "scope", "complexity"]
+}
